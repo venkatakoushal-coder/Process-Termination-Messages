@@ -45,12 +45,7 @@ int main()
         waitpid(pid, &status, 0);
 
         printf("\nParent Process Resumed.\n");
-
-        if (WIFEXITED(status))
-        {
-            printf("Child Process Terminated Normally.\n");
-            printf("Child Exit Status: %d\n", WEXITSTATUS(status));
-        }
+        printf("Child Process Terminated.\n");
     }
 
     printf("\n========================================\n");
