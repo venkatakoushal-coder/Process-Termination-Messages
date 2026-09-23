@@ -6,7 +6,6 @@
 int main()
 {
     pid_t pid;
-    int status;
 
     printf("========================================\n");
     printf("       PROCESS TERMINATION MESSAGES\n");
@@ -42,7 +41,7 @@ int main()
     {
         printf("Parent Process is waiting for the child...\n");
 
-        waitpid(pid, &status, 0);
+        waitpid(pid, NULL, 0);
 
         printf("\nParent Process Resumed.\n");
         printf("Child Process Terminated.\n");
