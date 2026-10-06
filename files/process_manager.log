@@ -1,0 +1,3566 @@
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+[CREATED] Process  52  |  PID:    787  |  Duration: 25s
+[CREATED] Process  53  |  PID:    788  |  Duration: 30s
+[CREATED] Process  54  |  PID:    789  |  Duration: 17s
+[CREATED] Process  55  |  PID:    790  |  Duration: 6s
+[CREATED] Process  56  |  PID:    791  |  Duration: 14s
+[CREATED] Process  57  |  PID:    792  |  Duration: 14s
+[CREATED] Process  58  |  PID:    793  |  Duration: 4s
+[CREATED] Process  59  |  PID:    794  |  Duration: 21s
+[CREATED] Process  60  |  PID:    795  |  Duration: 3s
+[CREATED] Process  61  |  PID:    796  |  Duration: 26s
+[CREATED] Process  62  |  PID:    797  |  Duration: 10s
+[CREATED] Process  63  |  PID:    798  |  Duration: 2s
+[CREATED] Process  64  |  PID:    799  |  Duration: 27s
+[CREATED] Process  65  |  PID:    800  |  Duration: 14s
+[CREATED] Process  66  |  PID:    801  |  Duration: 18s
+[CREATED] Process  67  |  PID:    802  |  Duration: 29s
+[CREATED] Process  68  ========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+[CREATED] Process  84  |  PID:    819  |  Duration: 23s
+[CREATED] Process  85  |  PID:    820  |  Duration: 26s
+[CREATED] Process  86  |  PID:    821  |  Duration: 16s
+[CREATED] Process  87  |  PID:    822  |  Duration: 28s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+[CREATED] Process  52  |  PID:    787  |  Duration: 25s
+[CREATED] Process  53  |  PID:    788  |  Duration: 30s
+[CREATED] Process  54  |  PID:    789  |  Duration: 17s
+[CREATED] Process  55  |  PID:    790  |  Duration: 6s
+[CREATED] Process  56  |  PID:    791  |  Duration: 14s
+[CREATED] Process  57  |  PID:    792  |  Duration: 14s
+[CREATED] Process  58  |  PID:    793  |  Duration: 4s
+[CREATED] Process  59  |  PID:    794  |  Duration: 21s
+[CREATED] Process  60  |  PID:    795  |  Duration: 3s
+[CREATED] Process  61  |  PID:    796  |  Duration: 26s
+[CREATED] Process  62  |  PID:    797  |  Duration: 10s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+[CREATED] Process  52  |  PID:    787  |  Duration: 25s
+[CREATED] Process  53  |  PID:    788  |  Duration: 30s
+[CREATED] Process  54  |  PID:    789  |  Duration: 17s
+[CREATED] Process  55  |  PID:    790  |  Duration: 6s
+[CREATED] Process  56  |  PID:    791  |  Duration: 14s
+[CREATED] Process  57  |  PID:    792  |  Duration: 14s
+[CREATED] Process  58  |  PID:    793  |  Duration: 4s
+[CREATED] Process  59  |  PID:    794  |  Duration: 21s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+[CREATED] Process  52  |  PID:    787  |  Duration: 25s
+[CREATED] Process  53  |  PID:    788  |  Duration: 30s
+[CREATED] Process  54  |  PID:    789  |  Duration: 17s
+[CREATED] Process  55  |  PID:    790  |  Duration: 6s
+[CREATED] Process  56  |  PID:    791  |  Duration: 14s
+[CREATED] Process  57  |  PID:    792  |  Duration: 14s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+[CREATED] Process  84  |  PID:    819  |  Duration: 23s
+[CREATED] Process  85  |  PID:    820  |  Duration: 26s
+[CREATED] Process  86  |  PID:    821  |  Duration: 16s
+[CREATED] Process  87  |  PID:    822  |  Duration: 28s
+[CREATED] Process  88  |  PID:    823  |  Duration: 1s
+[CREATED] Process  89  |  PID:    824  |  Duration: 19s
+[CREATED] Process  90  |  PID:    825  |  Duration: 11s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+[CREATED] Process  84  |  PID:    819  |  Duration: 23s
+[CREATED] Process  85  |  PID:    820  |  Duration: 26s
+[CREATED] Process  86  |  PID:    821  |  Duration: 16s
+[CREATED] Process  87  |  PID:    822  |  Duration: 28s
+[CREATED] Process  88  |  PID:    823  |  Duration: 1s
+[CREATED] Process  89  |  PID:    824  |  Duration: 19s
+[CREATED] Process  90  |  PID:    825  |  Duration: 11s
+[CREATED] Process  91  |  PID:    826  |  Duration: 4s
+[CREATED] Process  92  |  PID:    827  |  Duration: 6s
+[CREATED] Process  93  |  PID:    828  |  Duration: 20s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+[CREATED] Process  52  |  PID:    787  |  Duration: 25s
+[CREATED] Process  53  |  PID:    788  |  Duration: 30s
+[CREATED] Process  54  |  PID:    789  |  Duration: 17s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+[CREATED] Process  52  |  PID:    787  |  Duration: 25s
+[CREATED] Process  53  |  PID:    788  |  Duration: 30s
+[CREATED] Process  54  |  PID:    789  |  Duration: 17s
+[CREATED] Process  55  |  PID:    790  |  Duration: 6s
+[CREATED] Process  56  |  PID:    791  |  Duration: 14s
+[CREATED] Process  57  |  PID:    792  |  Duration: 14s
+[CREATED] Process  58  |  PID:    793  |  Duration: 4s
+[CREATED] Process  59  |  PID:    794  |  Duration: 21s
+[CREATED] Process  60  |  PID:    795  |  Duration: 3s
+[CREATED] Process  61  |  PID:    796  |  Duration: 26s
+[CREATED] Process  62  |  PID:    797  |  Duration: 10s
+[CREATED] Process  63  |  PID:    798  |  Duration: 2s
+[CREATED] Process  64  |  PID:    799  |  Duration: 27s
+[CREATED] Process  65  |  PID:    800  |  Duration: 14s
+[CREATED] Process  66  |  PID:    801  |  Duration: 18s
+[CREATED] Process  67  |  PID:    802  |  Duration: 29s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+[CREATED] Process  84  |  PID:    819  |  Duration: 23s
+[CREATED] Process  85  |  PID:    820  |  Duration: 26s
+[CREATED] Process  86  |  PID:    821  |  Duration: 16s
+[CREATED] Process  87  |  PID:    822  |  Duration: 28s
+[CREATED] Process  88  |  PID:    823  |  Duration: 1s
+[CREATED] Process  89  |  PID:    824  |  Duration: 19s
+[CREATED] Process  90  |  PID:    825  |  Duration: 11s
+[CREATED] Process  91  |  PID:    826  |  Duration: 4s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+[CREATED] Process  52  |  PID:    787  |  Duration: 25s
+[CREATED] Process  53  |  PID:    788  |  Duration: 30s
+[CREATED] Process  54  |  PID:    789  |  Duration: 17s
+[CREATED] Process  55  |  PID:    790  |  Duration: 6s
+[CREATED] Process  56  |  PID:    791  |  Duration: 14s
+[CREATED] Process  57  |  PID:    792  |  Duration: 14s
+[CREATED] Process  58  |  PID:    793  |  Duration: 4s
+[CREATED] Process  59  |  PID:    794  |  Duration: 21s
+[CREATED] Process  60  |  PID:    795  |  Duration: 3s
+[CREATED] Process  61  |  PID:    796  |  Duration: 26s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+[CREATED] Process  84  |  PID:    819  |  Duration: 23s
+[CREATED] Process  85  |  PID:    820  |  Duration: 26s
+[CREATED] Process  86  |  PID:    821  |  Duration: 16s
+[CREATED] Process  87  |  PID:    822  |  Duration: 28s
+[CREATED] Process  88  |  PID:    823  |  Duration: 1s
+[CREATED] Process  89  |  PID:    824  |  Duration: 19s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+[CREATED] Process  84  |  PID:    819  |  Duration: 23s
+[CREATED] Process  85  |  PID:    820  |  Duration: 26s
+[CREATED] Process  86  |  PID:    821  |  Duration: 16s
+[CREATED] Process  87  |  PID:    822  |  Duration: 28s
+[CREATED] Process  88  |  PID:    823  |  Duration: 1s
+[CREATED] Process  89  |  PID:    824  |  Duration: 19s
+[CREATED] Process  90  |  PID:    825  |  Duration: 11s
+[CREATED] Process  91  |  PID:    826  |  Duration: 4s
+[CREATED] Process  92  |  PID:    827  |  Duration: 6s
+[CREATED] Process  93  |  PID:    828  |  Duration: 20s
+[CREATED] Process  94  |  PID:    829  |  Duration: 5s
+[CREATED] Process  95  |  PID:    830  |  Duration: 25s
+[CREATED] Process  96  |  PID:    831  |  Duration: 25s
+[CREATED] Process  97  |  PID:    832  |  Duration: 14s
+[CREATED] Process  98  |  PID:    833  |  Duration: 15s
+[CREATED] Process  99  |  PID:    834  |  Duration: 22s
+[CREATED] Process 100  |  PID:    835  |  Duration: 29s
+
+Parent entering waitpid() synchronization loop...
+
+[EXITED] Process  11 (PID    746) exited normally (code 0)
+[EXITED] Process  22 (PID    757) exited normally (code 0)
+[EXITED] Process  30 (PID    765) exited normally (code 0)
+[EXITED] Process  88 (PID    823) exited normally (code 0)
+[EXITED] Process  18 (PID    753) exited normally (code 0)
+[EXITED] Process  33 (PID    768) exited normally (code 0)
+[EXITED] Process  39 (PID    774) exited normally (code 0)
+[EXITED] Process  42 (PID    777) exited normally (code 0)
+[EXITED] Process  63 (PID    798) exited normally (code 0)
+[EXITED] Process  71 (PID    806) exited normally (code 0)
+[EXITED] Process  60 (PID    795) exited normally (code 0)
+[EXITED] Process  43 (PID    778) exited normally (code 0)
+[EXITED] Process  44 (PID    779) exited normally (code 0)
+[EXITED] Process  58 (PID    793) exited normally (code 0)
+[EXITED] Process  91 (PID    826) exited normally (code 0)
+[EXITED] Process  20 (PID    755) exited normally (code 0)
+[EXITED] Process  34 (PID    769) exited normally (code 0)
+[EXITED] Process  40 (PID    775) exited normally (code 0)
+[EXITED] Process  94 (PID    829) exited normally (code 0)
+[EXITED] Process  55 (PID    790) exited normally (code 0)
+[EXITED] Process  68 (PID    803) exited normally (code 0)
+[EXITED] Process  74 (PID    809) exited normally (code 0)
+[EXITED] Process  92 (PID    827) exited normally (code 0)
+[EXITED] Process  32 (PID    767) exited normally (code 0)
+[EXITED] Process  38 (PID    773) exited normally (code 0)
+[EXITED] Process  51 (PID    786) exited normally (code 0)
+[EXITED] Process  16 (PID    751) exited normally (code 0)
+[EXITED] Process  50 (PID    785) exited normally (code 0)
+[EXITED] Process   5 (PID    740) exited normally (code 0)
+[EXITED] Process  76 (PID    811) exited normally (code 0)
+[EXITED] Process  82 (PID    817) exited normally (code 0)
+[EXITED] Process   2 (PID    737) exited normally (code 0)
+[EXITED] Process  13 (PID    748) exited normally (code 0)
+[EXITED] Process  36 (PID    771) exited normally (code 0)
+[EXITED] Process  62 (PID    797) exited normally (code 0)
+[EXITED] Process  48 (PID    783) exited normally (code 0)
+[EXITED] Process  49 (PID    784) exited normally (code 0)
+[EXITED] Process  79 (PID    814) exited norm========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+[CREATED] Process  52  |  PID:    787  |  Duration: 25s
+[CREATED] Process  53  |  PID:    788  |  Duration: 30s
+[CREATED] Process  54  |  PID:    789  |  Duration: 17s
+[CREATED] Process  55  |  PID:    790  |  Duration: 6s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+[CREATED] Process  52  |  PID:    787  |  Duration: 25s
+[CREATED] Process  53  |  PID:    788  |  Duration: 30s
+[CREATED] Process  54  |  PID:    789  |  Duration: 17s
+[CREATED] Process  55  |  PID:    790  |  Duration: 6s
+[CREATED] Process  56  |  PID:    791  |  Duration: 14s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+[CREATED] Process  52  |  PID:    787  |  Duration: 25s
+[CREATED] Process  53  |  PID:    788  |  Duration: 30s
+[CREATED] Process  54  |  PID:    789  |  Duration: 17s
+[CREATED] Process  55  |  PID:    790  |  Duration: 6s
+[CREATED] Process  56  |  PID:    791  |  Duration: 14s
+[CREATED] Process  57  |  PID:    792  |  Duration: 14s
+[CREATED] Process  58  |  PID:    793  |  Duration: 4s
+[CREATED] Process  59  |  PID:    794  |  Duration: 21s
+[CREATED] Process  60  |  PID:    795  |  Duration: 3s
+[CREATED] Process  61  |  PID:    796  |  Duration: 26s
+[CREATED] Process  62  |  PID:    797  |  Duration: 10s
+[CREATED] Process  63  |  PID:    798  |  Duration: 2s
+[CREATED] Process  64  |  PID:    799  |  Duration: 27s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+[CREATED] Process  84  |  PID:    819  |  Duration: 23s
+[CREATED] Process  85  |  PID:    820  |  Duration: 26s
+[CREATED] Process  86  |  PID:    821  |  Duration: 16s
+[CREATED] Process  87  |  PID:    822  |  Duration: 28s
+[CREATED] Process  88  |  PID:    823  |  Duration: 1s
+[CREATED] Process  89  |  PID:    824  |  Duration: 19s
+[CREATED] Process  90  |  PID:    825  |  Duration: 11s
+[CREATED] Process  91  |  PID:    826  |  Duration: 4s
+[CREATED] Process  92  |  PID:    827  |  Duration: 6s
+[CREATED] Process  93  |  PID:    828  |  Duration: 20s
+[CREATED] Process  94  |  PID:    829  |  Duration: 5s
+[CREATED] Process  95  |  PID:    830  |  Duration: 25s
+[CREATED] Process  96  |  PID:    831  |  Duration: 25s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+[CREATED] Process  84  |  PID:    819  |  Duration: 23s
+[CREATED] Process  85  |  PID:    820  |  Duration: 26s
+[CREATED] Process  86  |  PID:    821  |  Duration: 16s
+[CREATED] Process  87  |  PID:    822  |  Duration: 28s
+[CREATED] Process  88  |  PID:    823  |  Duration: 1s
+[CREATED] Process  89  |  PID:    824  |  Duration: 19s
+[CREATED] Process  90  |  PID:    825  |  Duration: 11s
+[CREATED] Process  91  |  PID:    826  |  Duration: 4s
+[CREATED] Process  92  |  PID:    827  |  Duration: 6s
+[CREATED] Process  93  |  PID:    828  |  Duration: 20s
+[CREATED] Process  94  |  PID:    829  |  Duration: 5s
+[CREATED] Process  95  |  PID:    830  |  Duration: 25s
+[CREATED] Process  96  |  PID:    831  |  Duration: 25s
+[CREATED] Process  97  |  PID:    832  |  Duration: 14s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+[CREATED] Process  84  |  PID:    819  |  Duration: 23s
+[CREATED] Process  85  |  PID:    820  |  Duration: 26s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+[CREATED] Process  52  |  PID:    787  |  Duration: 25s
+[CREATED] Process  53  |  PID:    788  |  Duration: 30s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+[CREATED] Process  52  |  PID:    787  |  Duration: 25s
+[CREATED] Process  53  |  PID:    788  |  Duration: 30s
+[CREATED] Process  54  |  PID:    789  |  Duration: 17s
+[CREATED] Process  55  |  PID:    790  |  Duration: 6s
+[CREATED] Process  56  |  PID:    791  |  Duration: 14s
+[CREATED] Process  57  |  PID:    792  |  Duration: 14s
+[CREATED] Process  58  |  PID:    793  |  Duration: 4s
+[CREATED] Process  59  |  PID:    794  |  Duration: 21s
+[CREATED] Process  60  |  PID:    795  |  Duration: 3s
+[CREATED] Process  61  |  PID:    796  |  Duration: 26s
+[CREATED] Process  62  |  PID:    797  |  Duration: 10s
+[CREATED] Process  63  |  PID:    798  |  Duration: 2s
+[CREATED] Process  64  |  PID:    799  |  Duration: 27s
+[CREATED] Process  65  |  PID:    800  |  Duration: 14s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+[CREATED] Process  84  |  PID:    819  |  Duration: 23s
+[CREATED] Process  85  |  PID:    820  |  Duration: 26s
+[CREATED] Process  86  |  PID:    821  |  Duration: 16s
+[CREATED] Process  87  |  PID:    822  |  Duration: 28s
+[CREATED] Process  88  |  PID:    823  |  Duration: 1s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+[CREATED] Process  84  |  PID:    819  |  Duration: 23s
+[CREATED] Process  85  |  PID:    820  |  Duration: 26s
+[CREATED] Process  86  |  PID:    821  |  Duration: 16s
+[CREATED] Process  87  |  PID:    822  |  Duration: 28s
+[CREATED] Process  88  |  PID:    823  |  Duration: 1s
+[CREATED] Process  89  |  PID:    824  |  Duration: 19s
+[CREATED] Process  90  |  PID:    825  |  Duration: 11s
+[CREATED] Process  91  |  PID:    826  |  Duration: 4s
+[CREATED] Process  92  |  PID:    827  |  Duration: 6s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+[CREATED] Process  52  |  PID:    787  |  Duration: 25s
+[CREATED] Process  53  |  PID:    788  |  Duration: 30s
+[CREATED] Process  54  |  PID:    789  |  Duration: 17s
+[CREATED] Process  55  |  PID:    790  |  Duration: 6s
+[CREATED] Process  56  |  PID:    791  |  Duration: 14s
+[CREATED] Process  57  |  PID:    792  |  Duration: 14s
+[CREATED] Process  58  |  PID:    793  |  Duration: 4s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+[CREATED] Process  84  |  PID:    819  |  Duration: 23s
+[CREATED] Process  85  |  PID:    820  |  Duration: 26s
+[CREATED] Process  86  |  PID:    821  |  Duration: 16s
+[CREATED] Process  87  |  PID:    822  |  Duration: 28s
+[CREATED] Process  88  |  PID:    823  |  Duration: 1s
+[CREATED] Process  89  |  PID:    824  |  Duration: 19s
+[CREATED] Process  90  |  PID:    825  |  Duration: 11s
+[CREATED] Process  91  |  PID:    826  |  Duration: 4s
+[CREATED] Process  92  |  PID:    827  |  Duration: 6s
+[CREATED] Process  93  |  PID:    828  |  Duration: 20s
+[CREATED] Process  94  |  PID:    829  |  Duration: 5s
+[CREATED] Process  95  |  PID:    830  |  Duration: 25s
+[CREATED] Process  96  |  PID:    831  |  Duration: 25s
+[CREATED] Process  97  |  PID:    832  |  Duration: 14s
+[CREATED] Process  98  |  PID:    833  |  Duration: 15s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+|  PID:    803  |  Duration: 6s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+[CREATED] Process  84  |  PID:    819  |  Duration: 23s
+[CREATED] Process  85  |  PID:    820  |  Duration: 26s
+[CREATED] Process  86  |  PID:    821  |  Duration: 16s
+[CREATED] Process  87  |  PID:    822  |  Duration: 28s
+[CREATED] Process  88  |  PID:    823  |  Duration: 1s
+[CREATED] Process  89  |  PID:    824  |  Duration: 19s
+[CREATED] Process  90  |  PID:    825  |  Duration: 11s
+[CREATED] Process  91  |  PID:    826  |  Duration: 4s
+[CREATED] Process  92  |  PID:    827  |  Duration: 6s
+[CREATED] Process  93  |  PID:    828  |  Duration: 20s
+[CREATED] Process  94  |  PID:    829  |  Duration: 5s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+[CREATED] Process  84  |  PID:    819  |  Duration: 23s
+[CREATED] Process  85  |  PID:    820  |  Duration: 26s
+[CREATED] Process  86  |  PID:    821  |  Duration: 16s
+[CREATED] Process  87  |  PID:    822  |  Duration: 28s
+[CREATED] Process  88  |  PID:    823  |  Duration: 1s
+[CREATED] Process  89  |  PID:    824  |  Duration: 19s
+[CREATED] Process  90  |  PID:    825  |  Duration: 11s
+[CREATED] Process  91  |  PID:    826  |  Duration: 4s
+[CREATED] Process  92  |  PID:    827  |  Duration: 6s
+[CREATED] Process  93  |  PID:    828  |  Duration: 20s
+[CREATED] Process  94  |  PID:    829  |  Duration: 5s
+[CREATED] Process  95  |  PID:    830  |  Duration: 25s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+[CREATED] Process  52  |  PID:    787  |  Duration: 25s
+[CREATED] Process  53  |  PID:    788  |  Duration: 30s
+[CREATED] Process  54  |  PID:    789  |  Duration: 17s
+[CREATED] Process  55  |  PID:    790  |  Duration: 6s
+[CREATED] Process  56  |  PID:    791  |  Duration: 14s
+[CREATED] Process  57  |  PID:    792  |  Duration: 14s
+[CREATED] Process  58  |  PID:    793  |  Duration: 4s
+[CREATED] Process  59  |  PID:    794  |  Duration: 21s
+[CREATED] Process  60  |  PID:    795  |  Duration: 3s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+[CREATED] Process  84  |  PID:    819  |  Duration: 23s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+[CREATED] Process  52  |  PID:    787  |  Duration: 25s
+[CREATED] Process  53  |  PID:    788  |  Duration: 30s
+[CREATED] Process  54  |  PID:    789  |  Duration: 17s
+[CREATED] Process  55  |  PID:    790  |  Duration: 6s
+[CREATED] Process  56  |  PID:    791  |  Duration: 14s
+[CREATED] Process  57  |  PID:    792  |  Duration: 14s
+[CREATED] Process  58  |  PID:    793  |  Duration: 4s
+[CREATED] Process  59  |  PID:    794  |  Duration: 21s
+[CREATED] Process  60  |  PID:    795  |  Duration: 3s
+[CREATED] Process  61  |  PID:    796  |  Duration: 26s
+[CREATED] Process  62  |  PID:    797  |  Duration: 10s
+[CREATED] Process  63  |  PID:    798  |  Duration: 2s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+[CREATED] Process  84  |  PID:    819  |  Duration: 23s
+[CREATED] Process  85  |  PID:    820  |  Duration: 26s
+[CREATED] Process  86  |  PID:    821  |  Duration: 16s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+[CREATED] Process  52  |  PID:    787  |  Duration: 25s
+[CREATED] Process  53  |  PID:    788  |  Duration: 30s
+[CREATED] Process  54  |  PID:    789  |  Duration: 17s
+[CREATED] Process  55  |  PID:    790  |  Duration: 6s
+[CREATED] Process  56  |  PID:    791  |  Duration: 14s
+[CREATED] Process  57  |  PID:    792  |  Duration: 14s
+[CREATED] Process  58  |  PID:    793  |  Duration: 4s
+[CREATED] Process  59  |  PID:    794  |  Duration: 21s
+[CREATED] Process  60  |  PID:    795  |  Duration: 3s
+[CREATED] Process  61  |  PID:    796  |  Duration: 26s
+[CREATED] Process  62  |  PID:    797  |  Duration: 10s
+[CREATED] Process  63  |  PID:    798  |  Duration: 2s
+[CREATED] Process  64  |  PID:    799  |  Duration: 27s
+[CREATED] Process  65  |  PID:    800  |  Duration: 14s
+[CREATED] Process  66  |  PID:    801  |  Duration: 18s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+[CREATED] Process  70  |  PID:    805  |  Duration: 30s
+[CREATED] Process  71  |  PID:    806  |  Duration: 2s
+[CREATED] Process  72  |  PID:    807  |  Duration: 18s
+[CREATED] Process  73  |  PID:    808  |  Duration: 24s
+[CREATED] Process  74  |  PID:    809  |  Duration: 6s
+[CREATED] Process  75  |  PID:    810  |  Duration: 14s
+[CREATED] Process  76  |  PID:    811  |  Duration: 9s
+[CREATED] Process  77  |  PID:    812  |  Duration: 15s
+[CREATED] Process  78  |  PID:    813  |  Duration: 25s
+[CREATED] Process  79  |  PID:    814  |  Duration: 11s
+[CREATED] Process  80  |  PID:    815  |  Duration: 25s
+[CREATED] Process  81  |  PID:    816  |  Duration: 24s
+[CREATED] Process  82  |  PID:    817  |  Duration: 9s
+[CREATED] Process  83  |  PID:    818  |  Duration: 11s
+[CREATED] Process  84  |  PID:    819  |  Duration: 23s
+[CREATED] Process  85  |  PID:    820  |  Duration: 26s
+[CREATED] Process  86  |  PID:    821  |  Duration: 16s
+[CREATED] Process  87  |  PID:    822  |  Duration: 28s
+[CREATED] Process  88  |  PID:    823  |  Duration: 1s
+[CREATED] Process  89  |  PID:    824  |  Duration: 19s
+[CREATED] Process  90  |  PID:    825  |  Duration: 11s
+[CREATED] Process  91  |  PID:    826  |  Duration: 4s
+[CREATED] Process  92  |  PID:    827  |  Duration: 6s
+[CREATED] Process  93  |  PID:    828  |  Duration: 20s
+[CREATED] Process  94  |  PID:    829  |  Duration: 5s
+[CREATED] Process  95  |  PID:    830  |  Duration: 25s
+[CREATED] Process  96  |  PID:    831  |  Duration: 25s
+[CREATED] Process  97  |  PID:    832  |  Duration: 14s
+[CREATED] Process  98  |  PID:    833  |  Duration: 15s
+[CREATED] Process  99  |  PID:    834  |  Duration: 22s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+========================================================
+   PROCESS TERMINATION MESSAGES
+   Linux OS Process Management Laboratory
+========================================================
+Parent Process Started (PID: 735)
+Configuration: 100 processes, pattern: 'mixed', mode: 'normal'
+========================================================
+
+[CREATED] Process   1  |  PID:    736  |  Duration: 18s
+[CREATED] Process   2  |  PID:    737  |  Duration: 10s
+[CREATED] Process   3  |  PID:    738  |  Duration: 24s
+[CREATED] Process   4  |  PID:    739  |  Duration: 18s
+[CREATED] Process   5  |  PID:    740  |  Duration: 9s
+[CREATED] Process   6  |  PID:    741  |  Duration: 27s
+[CREATED] Process   7  |  PID:    742  |  Duration: 29s
+[CREATED] Process   8  |  PID:    743  |  Duration: 23s
+[CREATED] Process   9  |  PID:    744  |  Duration: 12s
+[CREATED] Process  10  |  PID:    745  |  Duration: 19s
+[CREATED] Process  11  |  PID:    746  |  Duration: 1s
+[CREATED] Process  12  |  PID:    747  |  Duration: 30s
+[CREATED] Process  13  |  PID:    748  |  Duration: 10s
+[CREATED] Process  14  |  PID:    749  |  Duration: 23s
+[CREATED] Process  15  |  PID:    750  |  Duration: 14s
+[CREATED] Process  16  |  PID:    751  |  Duration: 8s
+[CREATED] Process  17  |  PID:    752  |  Duration: 25s
+[CREATED] Process  18  |  PID:    753  |  Duration: 2s
+[CREATED] Process  19  |  PID:    754  |  Duration: 27s
+[CREATED] Process  20  |  PID:    755  |  Duration: 5s
+[CREATED] Process  21  |  PID:    756  |  Duration: 15s
+[CREATED] Process  22  |  PID:    757  |  Duration: 1s
+[CREATED] Process  23  |  PID:    758  |  Duration: 19s
+[CREATED] Process  24  |  PID:    759  |  Duration: 20s
+[CREATED] Process  25  |  PID:    760  |  Duration: 15s
+[CREATED] Process  26  |  PID:    761  |  Duration: 28s
+[CREATED] Process  27  |  PID:    762  |  Duration: 28s
+[CREATED] Process  28  |  PID:    763  |  Duration: 16s
+[CREATED] Process  29  |  PID:    764  |  Duration: 28s
+[CREATED] Process  30  |  PID:    765  |  Duration: 1s
+[CREATED] Process  31  |  PID:    766  |  Duration: 19s
+[CREATED] Process  32  |  PID:    767  |  Duration: 7s
+[CREATED] Process  33  |  PID:    768  |  Duration: 2s
+[CREATED] Process  34  |  PID:    769  |  Duration: 5s
+[CREATED] Process  35  |  PID:    770  |  Duration: 17s
+[CREATED] Process  36  |  PID:    771  |  Duration: 10s
+[CREATED] Process  37  |  PID:    772  |  Duration: 23s
+[CREATED] Process  38  |  PID:    773  |  Duration: 7s
+[CREATED] Process  39  |  PID:    774  |  Duration: 2s
+[CREATED] Process  40  |  PID:    775  |  Duration: 5s
+[CREATED] Process  41  |  PID:    776  |  Duration: 25s
+[CREATED] Process  42  |  PID:    777  |  Duration: 2s
+[CREATED] Process  43  |  PID:    778  |  Duration: 4s
+[CREATED] Process  44  |  PID:    779  |  Duration: 4s
+[CREATED] Process  45  |  PID:    780  |  Duration: 16s
+[CREATED] Process  46  |  PID:    781  |  Duration: 18s
+[CREATED] Process  47  |  PID:    782  |  Duration: 12s
+[CREATED] Process  48  |  PID:    783  |  Duration: 11s
+[CREATED] Process  49  |  PID:    784  |  Duration: 11s
+[CREATED] Process  50  |  PID:    785  |  Duration: 8s
+[CREATED] Process  51  |  PID:    786  |  Duration: 7s
+[CREATED] Process  52  |  PID:    787  |  Duration: 25s
+|  PID:    803  |  Duration: 6s
+[CREATED] Process  69  |  PID:    804  |  Duration: 24s
+ally (code 0)
+[EXITED] Process  83 (PID    818) exited normally (code 0)
+[EXITED] Process  90 (PID    825) exited normally (code 0)
+[EXITED] Process   9 (PID    744) exited normally (code 0)
+[EXITED] Process  47 (PID    782) exited normally (code 0)
+[EXITED] Process  15 (PID    750) exited normally (code 0)
+[EXITED] Process  56 (PID    791) exited normally (code 0)
+[EXITED] Process  57 (PID    792) exited normally (code 0)
+[EXITED] Process  65 (PID    800) exited normally (code 0)
+[EXITED] Process  75 (PID    810) exited normally (code 0)
+[EXITED] Process  97 (PID    832) exited normally (code 0)
+[EXITED] Process  21 (PID    756) exited normally (code 0)
+[EXITED] Process  25 (PID    760) exited normally (code 0)
+[EXITED] Process  77 (PID    812) exited normally (code 0)
+[EXITED] Process  98 (PID    833) exited normally (code 0)
+[EXITED] Process  28 (PID    763) exited normally (code 0)
+[EXITED] Process  45 (PID    780) exited normally (code 0)
+[EXITED] Process  86 (PID    821) exited normally (code 0)
+[EXITED] Process  35 (PID    770) exited normally (code 0)
+[EXITED] Process  54 (PID    789) exited normally (code 0)
+[EXITED] Process   1 (PID    736) exited normally (code 0)
+[EXITED] Process   4 (PID    739) exited normally (code 0)
+[EXITED] Process  46 (PID    781) exited normally (code 0)
+[EXITED] Process  66 (PID    801) exited normally (code 0)
+[EXITED] Process  72 (PID    807) exited normally (code 0)
+[EXITED] Process  10 (PID    745) exited normally (code 0)
+[EXITED] Process  23 (PID    758) exited normally (code 0)
+[EXITED] Process  31 (PID    766) exited normally (code 0)
+[EXITED] Process  89 (PID    824) exited normally (code 0)
+[EXITED] Process  24 (PID    759) exited normally (code 0)
+[EXITED] Process  93 (PID    828) exited normally (code 0)
+[EXITED] Process  59 (PID    794) exited normally (code 0)
+[EXITED] Process  99 (PID    834) exited normally (code 0)
+[EXITED] Process   8 (PID    743) exited normally (code 0)
+[EXITED] Process  14 (PID    749) exited normally (code 0)
+[EXITED] Process  37 (PID    772) exited normally (code 0)
+[EXITED] Process  84 (PID    819) exited normally (code 0)
+[EXITED] Process   3 (PID    738) exited normally (code 0)
+[EXITED] Process  69 (PID    804) exited normally (code 0)
+[EXITED] Process  73 (PID    808) exited normally (code 0)
+[EXITED] Process  81 (PID    816) exited normally (code 0)
+[EXITED] Process  17 (PID    752) exited normally (code 0)
+[EXITED] Process  41 (PID    776) exited normally (code 0)
+[EXITED] Process  52 (PID    787) exited normally (code 0)
+[EXITED] Process  78 (PID    813) exited normally (code 0)
+[EXITED] Process  80 (PID    815) exited normally (code 0)
+[EXITED] Process  95 (PID    830) exited normally (code 0)
+[EXITED] Process  96 (PID    831) exited normally (code 0)
+[EXITED] Process  61 (PID    796) exited normally (code 0)
+[EXITED] Process  85 (PID    820) exited normally (code 0)
+[EXITED] Process   6 (PID    741) exited normally (code 0)
+[EXITED] Process  19 (PID    754) exited normally (code 0)
+[EXITED] Process  64 (PID    799) exited normally (code 0)
+[EXITED] Process  26 (PID    761) exited normally (code 0)
+[EXITED] Process  27 (PID    762) exited normally (code 0)
+[EXITED] Process  29 (PID    764) exited normally (code 0)
+[EXITED] Process  87 (PID    822) exited normally (code 0)
+[EXITED] Process   7 (PID    742) exited normally (code 0)
+[EXITED] Process  67 (PID    802) exited normally (code 0)
+[EXITED] Process 100 (PID    835) exited normally (code 0)
+[EXITED] Process  12 (PID    747) exited normally (code 0)
+[EXITED] Process  53 (PID    788) exited normally (code 0)
+[EXITED] Process  70 (PID    805) exited normally (code 0)
+
+========================================================
+   RUN COMPLETED — ALL 100 PROCESSES REAPED BY PARENT
+   Normal: 100 | Signal Terminated: 0
+========================================================
