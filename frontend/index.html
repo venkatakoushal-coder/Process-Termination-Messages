@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Process Termination Messages — Linux OS Process Control Center</title>
+    <meta name="description" content="Advanced Linux Process Management, waitpid() Synchronization, Signal Termination and Lifecycle Forensic Control Center." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+    <!-- TOP HEADER -->
+    <header class="site-header">
+        <div class="header-inner">
+            <div class="header-left">
+                <div class="header-brand">
+                    <span class="brand-glyph">◈</span>
+                    <div>
+                        <h1 class="brand-title">Process Termination Messages</h1>
+                        <p class="brand-sub">Linux OS Process Lifecycle &amp; Synchronization Control Center</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Global Run Controls -->
+            <div class="run-control-bar">
+                <div class="control-group">
+                    <label for="cfg-count">Processes</label>
+                    <input type="number" id="cfg-count" class="select-input count-input"
+                           min="1" max="500" step="1" value="100" inputmode="numeric"
+                           placeholder="1–500" title="Type any number of processes from 1 to 500" />
+                </div>
+
+                <div class="control-group">
+                    <label for="cfg-pattern">Duration Pattern</label>
+                    <select id="cfg-pattern" class="select-input">
+                        <option value="short">Short (1–3s)</option>
+                        <option value="medium">Medium (3–7s)</option>
+                        <option value="mixed" selected>Mixed (random 1–30s)</option>
+                    </select>
+                </div>
+
+                <div class="control-actions">
+                    <button id="btn-start-run" class="btn btn-primary" title="Launch C Process Manager">
+                        <span class="btn-icon">▶</span> Start Run
+                    </button>
+                    <button id="btn-stop-run" class="btn btn-danger btn-sm" style="display:none;" title="Terminate active process manager">
+                        ■ Stop
+                    </button>
+                </div>
+            </div>
+
+            <div class="header-right">
+                <div class="status-indicator" id="run-status-badge">
+                    <span class="status-dot dot-idle" id="run-status-dot"></span>
+                    <span id="run-status-text">IDLE</span>
+                </div>
+                <div class="connection-badge" id="connection-badge" title="Live CSV Event Bridge to MySQL">
+                    <span class="conn-dot"></span>
+                    <span id="connection-text">Live Bridge</span>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- HISTORICAL RUN BANNER (Visible when viewing historical run) -->
+    <div id="historical-banner" class="historical-banner" style="display: none;">
+        <span>Viewing Historical Run <strong id="hist-run-id">#--</strong></span>
+        <button id="btn-return-current" class="btn btn-sm btn-ghost">Return to Live Run</button>
+    </div>
+
+    <!-- RUN STATUS SUMMARY METRICS BAR -->
+    <section class="summary-bar-wrapper">
+        <div class="summary-bar">
+            <div class="summary-metric">
+                <span class="metric-label">Total Processes</span>
+                <span class="metric-val" id="sm-total">--</span>
+            </div>
+            <div class="summary-divider"></div>
+            <div class="summary-metric metric-running">
+                <span class="metric-label">Running</span>
+                <span class="metric-val" id="sm-running">0</span>
+            </div>
+            <div class="summary-divider"></div>
+            <div class="summary-metric metric-completed">
+                <span class="metric-label">Completed</span>
+                <span class="metric-val" id="sm-completed">0</span>
+            </div>
+            <div class="summary-divider"></div>
+            <div class="summary-metric metric-signaled">
+                <span class="metric-label">Signal Terminated</span>
+                <span class="metric-val" id="sm-signaled">0</span>
+            </div>
+            <div class="summary-divider"></div>
+            <div class="summary-metric metric-reaped">
+                <span class="metric-label">Reaped by Parent</span>
+                <span class="metric-val" id="sm-reaped">0</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- NAVIGATION TABS -->
+    <nav class="nav-tabs" id="nav-tabs">
+        <button class="nav-tab active" data-tab="overview" id="tab-btn-overview">Overview</button>
+        <button class="nav-tab" data-tab="processes" id="tab-btn-processes">Processes</button>
+        <button class="nav-tab" data-tab="parent-sync" id="tab-btn-parent-sync">Parent Sync</button>
+        <button class="nav-tab" data-tab="events" id="tab-btn-events">Live Events</button>
+        <button class="nav-tab" data-tab="statistics" id="tab-btn-statistics">Statistics</button>
+        <button class="nav-tab" data-tab="experiments" id="tab-btn-experiments">OS Experiments</button>
+        <button class="nav-tab" data-tab="history" id="tab-btn-history">Run History</button>
+    </nav>
+
+    <!-- MAIN DASHBOARD CONTENT -->
+    <main class="main-content">
+
+        <!-- ===================================================================
+             TAB 1: OVERVIEW (Interactive Cockpit)
+             =================================================================== -->
+        <section class="tab-pane active" id="tab-overview">
+            <!-- Run Information & Synchronization Progress Bar -->
+            <div class="run-info-card">
+                <div class="run-meta-row">
+                    <div class="run-meta-item">
+                        <span class="run-meta-label">Run ID</span>
+                        <span class="run-meta-value mono" id="ov-run-id">--</span>
+                    </div>
+                    <div class="run-meta-item">
+                        <span class="run-meta-label">Parent PID</span>
+                        <span class="run-meta-value mono" id="ov-parent-pid">--</span>
+                    </div>
+                    <div class="run-meta-item">
+                        <span class="run-meta-label">Start Time</span>
+                        <span class="run-meta-value mono" id="ov-start-time">--</span>
+                    </div>
+                    <div class="run-meta-item">
+                        <span class="run-meta-label">Duration Pattern</span>
+                        <span class="run-meta-value capitalize" id="ov-pattern">--</span>
+                    </div>
+                    <div class="run-meta-item">
+                        <span class="run-meta-label">Parent Status</span>
+                        <span class="badge" id="ov-status-badge">IDLE</span>
+                    </div>
+                </div>
+
+                <div class="sync-progress-container">
+                    <div class="sync-progress-header">
+                        <span class="sync-progress-title">Parent waitpid() Reaping Progress</span>
+                        <span class="sync-progress-stats" id="ov-progress-text">0 / 0 reaped (0.0%)</span>
+                    </div>
+                    <div class="progress-bar-track">
+                        <div class="progress-bar-fill" id="ov-progress-bar" style="width: 0%;"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Cockpit 3-Column Layout: Processes Table | Selected Process & Lifecycle | Process Tree -->
+            <div class="cockpit-grid">
+
+                <!-- Left Column: Compact Processes Table -->
+                <div class="cockpit-col table-col">
+                    <div class="panel">
+                        <div class="panel-header">
+                            <span class="panel-title">Active Processes</span>
+                            <div class="panel-actions">
+                                <input type="text" id="ov-search-input" class="search-input-compact" placeholder="Search PID or #…" />
+                                <span class="panel-badge" id="ov-table-count">0 items</span>
+                            </div>
+                        </div>
+                        <div class="table-wrapper compact-table-wrapper">
+                            <table class="data-table" id="ov-process-table">
+                                <thead>
+                                    <tr>
+                                        <th>No</th>
+                                        <th>PID</th>
+                                        <th>Status</th>
+                                        <th>Dur</th>
+                                        <th>Exit</th>
+                                        <th>Action</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="ov-process-tbody">
+                                    <tr>
+                                        <td colspan="6" class="placeholder-cell">No active processes. Start a run above.</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Middle Column: Selected Process Detail & Signal Control -->
+                <div class="cockpit-col detail-col">
+                    <div class="panel" id="detail-panel">
+                        <div class="panel-header">
+                            <span class="panel-title">Selected Process Forensics</span>
+                            <span class="panel-badge mono" id="sel-badge-pid">PID --</span>
+                        </div>
+                        <div class="detail-body">
+                            <!-- Process Metadata Grid -->
+                            <div class="detail-grid">
+                                <div class="detail-item">
+                                    <span class="detail-label">Process Number</span>
+                                    <span class="detail-value mono" id="sel-process-no">--</span>
+                                </div>
+                                <div class="detail-item">
+                                    <span class="detail-label">PID</span>
+                                    <span class="detail-value mono" id="sel-pid">--</span>
+                                </div>
+                                <div class="detail-item">
+                                    <span class="detail-label">Parent PID</span>
+                                    <span class="detail-value mono" id="sel-parent-pid">--</span>
+                                </div>
+                                <div class="detail-item">
+                                    <span class="detail-label">Current State</span>
+                                    <span class="detail-value" id="sel-status-badge"><span class="badge">--</span></span>
+                                </div>
+                                <div class="detail-item">
+                                    <span class="detail-label">Task Duration</span>
+                                    <span class="detail-value mono" id="sel-duration">--</span>
+                                </div>
+                                <div class="detail-item">
+                                    <span class="detail-label">Termination Type</span>
+                                    <span class="detail-value" id="sel-term-type">--</span>
+                                </div>
+                                <div class="detail-item">
+                                    <span class="detail-label">Signal Deliberation</span>
+                                    <span class="detail-value mono" id="sel-signal-name">--</span>
+                                </div>
+                                <div class="detail-item">
+                                    <span class="detail-label">Parent Reaped</span>
+                                    <span class="detail-value" id="sel-reaped-status">--</span>
+                                </div>
+                            </div>
+
+                            <!-- Termination Message / Forensic Cause -->
+                            <div class="forensic-box" id="sel-forensic-box">
+                                <span class="forensic-title">OS Termination Forensics</span>
+                                <p class="forensic-msg" id="sel-term-msg">Select a process to view its real-time OS state.</p>
+                            </div>
+
+                            <!-- Compact Visual Lifecycle Timeline -->
+                            <div class="lifecycle-section">
+                                <span class="lifecycle-heading">Process Lifecycle State</span>
+                                <div class="lifecycle-stepper" id="lifecycle-stepper">
+                                    <div class="step" id="step-create">
+                                        <div class="step-dot"></div>
+                                        <span class="step-label">CREATED</span>
+                                    </div>
+                                    <div class="step-line" id="line-1"></div>
+                                    <div class="step" id="step-run">
+                                        <div class="step-dot"></div>
+                                        <span class="step-label">RUNNING</span>
+                                    </div>
+                                    <div class="step-line" id="line-2"></div>
+                                    <div class="step" id="step-term">
+                                        <div class="step-dot"></div>
+                                        <span class="step-label" id="step-term-label">TERMINATED</span>
+                                    </div>
+                                    <div class="step-line" id="line-3"></div>
+                                    <div class="step" id="step-reap">
+                                        <div class="step-dot"></div>
+                                        <span class="step-label">REAPED</span>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Real Signal Controls -->
+                            <div class="signal-controls-section">
+                                <span class="signal-heading">POSIX Signal Delivery (`kill()`)</span>
+                                <div class="signal-buttons">
+                                    <button id="btn-sigterm" class="btn btn-warning" disabled>
+                                        SIGTERM (15) — Graceful
+                                    </button>
+                                    <button id="btn-sigkill" class="btn btn-danger" disabled>
+                                        SIGKILL (9) — Force
+                                    </button>
+                                </div>
+                                <p class="signal-note">
+                                    <strong>SIGTERM:</strong> Polite termination request handled via `WIFSIGNALED`.<br />
+                                    <strong>SIGKILL:</strong> Uncatchable kernel force-kill.
+                                </p>
+                            </div>
+
+                            <!-- Process Event Audit Trail -->
+                            <div class="selected-events-section">
+                                <span class="selected-events-heading">Audit Trail for this PID</span>
+                                <div class="selected-events-list" id="sel-events-list">
+                                    <div class="event-placeholder">No events recorded yet.</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right Column: Process Relationship Tree -->
+                <div class="cockpit-col tree-col">
+                    <div class="panel">
+                        <div class="panel-header">
+                            <span class="panel-title">Process Relationship</span>
+                            <span class="panel-badge" id="tree-count">0 children</span>
+                        </div>
+                        <div class="tree-container">
+                            <div class="tree-root">
+                                <span class="tree-node-icon">◆</span>
+                                <span class="tree-node-title">Parent Process</span>
+                                <span class="tree-node-pid mono" id="tree-parent-pid">PID --</span>
+                            </div>
+                            <div class="tree-children" id="tree-children-list">
+                                <div class="tree-placeholder">Waiting for process run…</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Bottom: Recent Activity Live Stream -->
+            <div class="panel recent-activity-panel">
+                <div class="panel-header">
+                    <span class="panel-title">Recent Activity (CSV Event Bridge)</span>
+                    <span class="panel-badge mono" id="recent-events-count">0 events</span>
+                </div>
+                <div class="recent-events-feed" id="ov-recent-events">
+                    <div class="event-placeholder">Waiting for system events…</div>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ===================================================================
+             TAB 2: PROCESSES (Comprehensive Table)
+             =================================================================== -->
+        <section class="tab-pane" id="tab-processes">
+            <div class="panel">
+                <div class="panel-header">
+                    <span class="panel-title">Process Management Table</span>
+                    <div class="table-toolbar">
+                        <div class="search-box">
+                            <span class="search-glyph">🔍</span>
+                            <input type="text" id="proc-search" class="search-input" placeholder="Search PID, #, status, termination…" />
+                        </div>
+                        <select id="proc-filter-status" class="select-input select-sm">
+                            <option value="ALL">All Statuses</option>
+                            <option value="RUNNING">Running</option>
+                            <option value="TERMINATED">Terminated</option>
+                            <option value="REAPED">Reaped</option>
+                            <option value="SIGNAL">Signal Terminated</option>
+                            <option value="NORMAL">Normal Exit</option>
+                        </select>
+                        <select id="proc-sort-col" class="select-input select-sm">
+                            <option value="process_no">Sort: Process #</option>
+                            <option value="pid">Sort: PID</option>
+                            <option value="duration">Sort: Duration</option>
+                            <option value="status">Sort: Status</option>
+                        </select>
+                        <span class="panel-badge mono" id="full-table-count">0 processes</span>
+                    </div>
+                </div>
+
+                <div class="table-wrapper full-table-wrapper">
+                    <table class="data-table" id="full-process-table">
+                        <thead>
+                            <tr>
+                                <th>Process #</th>
+                                <th>PID</th>
+                                <th>Parent PID</th>
+                                <th>Status</th>
+                                <th>Duration</th>
+                                <th>Start Time</th>
+                                <th>End Time</th>
+                                <th>Termination Forensics</th>
+                                <th>Signal</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody id="full-process-tbody">
+                            <tr>
+                                <td colspan="10" class="placeholder-cell">No process data available.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ===================================================================
+             TAB 3: PARENT SYNCHRONIZATION
+             =================================================================== -->
+        <section class="tab-pane" id="tab-parent-sync">
+            <div class="grid-2col">
+                <div class="panel">
+                    <div class="panel-header">
+                        <span class="panel-title">waitpid() Non-blocking Collection Status</span>
+                        <span class="panel-badge" id="sync-tab-badge">IDLE</span>
+                    </div>
+                    <div class="panel-body">
+                        <div class="sync-stat-cards">
+                            <div class="sync-card">
+                                <span class="sync-card-label">Parent Process PID</span>
+                                <span class="sync-card-val mono" id="sync-tab-ppid">--</span>
+                            </div>
+                            <div class="sync-card">
+                                <span class="sync-card-label">Total Children Managed</span>
+                                <span class="sync-card-val mono" id="sync-tab-total">--</span>
+                            </div>
+                            <div class="sync-card">
+                                <span class="sync-card-label">Children Created</span>
+                                <span class="sync-card-val mono" id="sync-tab-created">--</span>
+                            </div>
+                            <div class="sync-card">
+                                <span class="sync-card-label">Currently Running</span>
+                                <span class="sync-card-val mono" id="sync-tab-running" style="color:var(--amber);">--</span>
+                            </div>
+                            <div class="sync-card">
+                                <span class="sync-card-label">Reaped by Parent</span>
+                                <span class="sync-card-val mono" id="sync-tab-reaped" style="color:var(--emerald);">--</span>
+                            </div>
+                            <div class="sync-card">
+                                <span class="sync-card-label">Remaining in Kernel</span>
+                                <span class="sync-card-val mono" id="sync-tab-remaining">--</span>
+                            </div>
+                        </div>
+
+                        <div style="margin-top: 20px;">
+                            <div class="sync-progress-header">
+                                <span class="sync-progress-title">Synchronization Completion</span>
+                                <span class="sync-progress-stats" id="sync-tab-pct">0.0%</span>
+                            </div>
+                            <div class="progress-bar-track">
+                                <div class="progress-bar-fill" id="sync-tab-progress-bar" style="width:0%;"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="panel">
+                    <div class="panel-header">
+                        <span class="panel-title">Operating System Implementation Architecture</span>
+                    </div>
+                    <div class="panel-body info-prose">
+                        <div class="code-concept-card">
+                            <code>waitpid(-1, &amp;status, WNOHANG)</code>
+                            <p>
+                                The C parent process polls child status asynchronously without blocking concurrent child executions.
+                                Returning <code>&gt; 0</code> identifies an exited child PID ready for reaping.
+                            </p>
+                        </div>
+                        <div class="code-concept-card">
+                            <code>WIFEXITED(status) &amp; WEXITSTATUS(status)</code>
+                            <p>
+                                Identifies normal process exit via <code>exit(code)</code> or return from main. Exit status 0 represents standard clean termination.
+                            </p>
+                        </div>
+                        <div class="code-concept-card">
+                            <code>WIFSIGNALED(status) &amp; WTERMSIG(status)</code>
+                            <p>
+                                Detects if a child was killed by an asynchronous POSIX signal (such as <code>SIGTERM=15</code> or <code>SIGKILL=9</code>), identifying unhandled signal events.
+                            </p>
+                        </div>
+                        <div class="code-concept-card">
+                            <code>Parent Process Cleanup &amp; Zombie Prevention</code>
+                            <p>
+                                Once <code>waitpid()</code> collects the termination status, Linux clears the task struct from the OS process table, preventing memory leaks and defunct zombie states.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ===================================================================
+             TAB 4: LIVE EVENTS
+             =================================================================== -->
+        <section class="tab-pane" id="tab-events">
+            <div class="panel">
+                <div class="panel-header">
+                    <span class="panel-title">Real-Time Event Stream Log</span>
+                    <div class="table-toolbar">
+                        <div class="search-box">
+                            <span class="search-glyph">🔍</span>
+                            <input type="number" id="event-filter-pid" class="search-input" placeholder="Filter by specific PID…" />
+                        </div>
+                        <select id="event-filter-type" class="select-input select-sm">
+                            <option value="ALL">All Event Types</option>
+                            <option value="START_RUN">START_RUN</option>
+                            <option value="CREATE">CREATE</option>
+                            <option value="SIGNAL">SIGNAL</option>
+                            <option value="COMPLETE">COMPLETE</option>
+                            <option value="REAPED">REAPED</option>
+                            <option value="ZOMBIE">ZOMBIE</option>
+                            <option value="END_RUN">END_RUN</option>
+                        </select>
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="event-autoscroll" checked /> Auto-scroll
+                        </label>
+                        <span class="panel-badge mono" id="events-count-badge">0 events</span>
+                    </div>
+                </div>
+                <div class="event-stream-container" id="events-stream-full">
+                    <div class="event-placeholder">Awaiting process events…</div>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ===================================================================
+             TAB 5: STATISTICS
+             =================================================================== -->
+        <section class="tab-pane" id="tab-statistics">
+            <div class="grid-2col">
+                <!-- Quantitative Metrics -->
+                <div class="panel">
+                    <div class="panel-header">
+                        <span class="panel-title">Quantitative OS Metrics</span>
+                        <span class="panel-badge mono" id="stats-run-badge">Run #--</span>
+                    </div>
+                    <div class="panel-body">
+                        <div class="stats-table">
+                            <div class="stats-row">
+                                <span class="stats-row-label">Total Child Processes</span>
+                                <span class="stats-row-val mono" id="st-total">0</span>
+                            </div>
+                            <div class="stats-row">
+                                <span class="stats-row-label">Currently Running</span>
+                                <span class="stats-row-val mono" id="st-running" style="color:var(--amber);">0</span>
+                            </div>
+                            <div class="stats-row">
+                                <span class="stats-row-label">Normal Exit Terminations (exit 0)</span>
+                                <span class="stats-row-val mono" id="st-normal" style="color:var(--emerald);">0</span>
+                            </div>
+                            <div class="stats-row">
+                                <span class="stats-row-label">Signal Terminations (SIGTERM/SIGKILL)</span>
+                                <span class="stats-row-val mono" id="st-signaled" style="color:var(--crimson);">0</span>
+                            </div>
+                            <div class="stats-row">
+                                <span class="stats-row-label">Signal Termination Rate</span>
+                                <span class="stats-row-val mono" id="st-sig-rate">0.0%</span>
+                            </div>
+                            <div class="stats-row">
+                                <span class="stats-row-label">Reaped by Parent (`waitpid()`)</span>
+                                <span class="stats-row-val mono" id="st-reaped">0</span>
+                            </div>
+                            <div class="stats-row">
+                                <span class="stats-row-label">Average Process Lifetime</span>
+                                <span class="stats-row-val mono" id="st-avg-dur">0.0s</span>
+                            </div>
+                            <div class="stats-row">
+                                <span class="stats-row-label">Shortest Lifetime</span>
+                                <span class="stats-row-val mono" id="st-min-dur">0s</span>
+                            </div>
+                            <div class="stats-row">
+                                <span class="stats-row-label">Longest Lifetime</span>
+                                <span class="stats-row-val mono" id="st-max-dur">0s</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Duration Distribution Chart -->
+                <div class="panel">
+                    <div class="panel-header">
+                        <span class="panel-title">Duration Distribution Histogram</span>
+                    </div>
+                    <div class="panel-body">
+                        <p class="chart-caption">Number of processes assigned to each duration (seconds)</p>
+                        <div class="histogram-chart" id="duration-chart">
+                            <div class="event-placeholder">No duration data available yet.</div>
+                        </div>
+
+                        <div class="signal-breakdown-box" style="margin-top:24px;">
+                            <span class="forensic-title">Signal Breakdown</span>
+                            <div class="signal-breakdown-row">
+                                <span>SIGTERM (Graceful Terminations):</span>
+                                <strong class="mono" id="st-sigterm-cnt" style="color:var(--amber);">0</strong>
+                            </div>
+                            <div class="signal-breakdown-row">
+                                <span>SIGKILL (Forced Terminations):</span>
+                                <strong class="mono" id="st-sigkill-cnt" style="color:var(--crimson);">0</strong>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ===================================================================
+             TAB 6: OS EXPERIMENTS (Interactive Demonstrations)
+             =================================================================== -->
+        <section class="tab-pane" id="tab-experiments">
+            <div class="experiments-intro">
+                <h2 class="section-title">Interactive OS Laboratory Scenarios</h2>
+                <p class="section-sub">
+                    Execute real, controlled Linux process scenarios to observe and verify fundamental kernel mechanisms: 
+                    synchronization, signal handling, uncatchable kills, and defunct zombie states.
+                </p>
+            </div>
+
+            <div class="experiments-grid">
+                <!-- Experiment 1: Normal Exit -->
+                <div class="experiment-card">
+                    <div class="exp-header">
+                        <span class="exp-badge">Scenario 1</span>
+                        <h3 class="exp-title">Normal Process Completion</h3>
+                    </div>
+                    <p class="exp-desc">
+                        Parent forks child processes that execute their sleep workload and terminate cleanly with <code>exit(0)</code>.
+                    </p>
+                    <div class="exp-flow">
+                        <code>fork()</code> → <code>sleep()</code> → <code>exit(0)</code> → <code>WIFEXITED</code> → <code>REAPED</code>
+                    </div>
+                    <button class="btn btn-primary btn-sm exp-btn" onclick="startExperiment(10, 'short', 'normal')">
+                        Launch Scenario 1
+                    </button>
+                </div>
+
+                <!-- Experiment 2: SIGTERM Graceful -->
+                <div class="experiment-card">
+                    <div class="exp-header">
+                        <span class="exp-badge">Scenario 2</span>
+                        <h3 class="exp-title">SIGTERM Signal Termination</h3>
+                    </div>
+                    <p class="exp-desc">
+                        Parent delivers <code>SIGTERM (15)</code>. The child terminates via signal; parent catches it via <code>WIFSIGNALED</code> and extracts <code>WTERMSIG == 15</code>.
+                    </p>
+                    <div class="exp-flow">
+                        <code>kill(SIGTERM)</code> → <code>WIFSIGNALED</code> → <code>WTERMSIG 15</code> → <code>REAPED</code>
+                    </div>
+                    <button class="btn btn-warning btn-sm exp-btn" onclick="startExperiment(5, 'medium', 'sigterm_demo')">
+                        Launch Scenario 2
+                    </button>
+                </div>
+
+                <!-- Experiment 3: SIGKILL Force -->
+                <div class="experiment-card">
+                    <div class="exp-header">
+                        <span class="exp-badge">Scenario 3</span>
+                        <h3 class="exp-title">SIGKILL Force Termination</h3>
+                    </div>
+                    <p class="exp-desc">
+                        Parent delivers <code>SIGKILL (9)</code>. SIGKILL cannot be caught or ignored; the Linux kernel immediately aborts the process task struct.
+                    </p>
+                    <div class="exp-flow">
+                        <code>kill(SIGKILL)</code> → kernel abort → <code>WTERMSIG 9</code> → <code>REAPED</code>
+                    </div>
+                    <button class="btn btn-danger btn-sm exp-btn" onclick="startExperiment(5, 'medium', 'sigkill_demo')">
+                        Launch Scenario 3
+                    </button>
+                </div>
+
+                <!-- Experiment 4: Parent Sync Loop -->
+                <div class="experiment-card">
+                    <div class="exp-header">
+                        <span class="exp-badge">Scenario 4</span>
+                        <h3 class="exp-title">Parent `waitpid()` Synchronization</h3>
+                    </div>
+                    <p class="exp-desc">
+                        Spawns 50 child processes with mixed lifetimes. Observe how parent continuously collects terminated children with <code>WNOHANG</code> without stalling.
+                    </p>
+                    <div class="exp-flow">
+                        50 children → asynchronous polling → dynamic reaping
+                    </div>
+                    <button class="btn btn-primary btn-sm exp-btn" onclick="startExperiment(50, 'mixed', 'normal')">
+                        Launch Scenario 4
+                    </button>
+                </div>
+
+                <!-- Experiment 5: Zombie Demonstration -->
+                <div class="experiment-card exp-card-special">
+                    <div class="exp-header">
+                        <span class="exp-badge badge-zombie">Scenario 5</span>
+                        <h3 class="exp-title">Controlled Zombie Demonstration</h3>
+                    </div>
+                    <p class="exp-desc">
+                        Child terminates immediately with <code>exit(0)</code>. Parent intentionally delays calling <code>waitpid()</code> for 6 seconds. Child exists as <strong>[ZOMBIE / defunct]</strong> in the real Linux kernel until parent reaps it.
+                    </p>
+                    <div class="exp-flow">
+                        <code>exit()</code> → parent delays <code>waitpid()</code> → <strong>Z (Zombie)</strong> → <code>waitpid()</code> → <code>REAPED</code>
+                    </div>
+                    <button class="btn btn-purple btn-sm exp-btn" onclick="startExperiment(1, 'short', 'zombie_demo')">
+                        Launch Scenario 5 (Zombie Demo)
+                    </button>
+                </div>
+            </div>
+        </section>
+
+
+        <!-- ===================================================================
+             TAB 7: RUN HISTORY & COMPARISON
+             =================================================================== -->
+        <section class="tab-pane" id="tab-history">
+            <!-- Run Comparison Section -->
+            <div class="panel" style="margin-bottom: 24px;">
+                <div class="panel-header">
+                    <span class="panel-title">Run Comparison Tool</span>
+                </div>
+                <div class="panel-body">
+                    <div class="compare-selectors">
+                        <div class="compare-col">
+                            <label for="comp-run-a">Run A:</label>
+                            <select id="comp-run-a" class="select-input">
+                                <option value="">Select Run A…</option>
+                            </select>
+                        </div>
+                        <div class="compare-col">
+                            <label for="comp-run-b">Run B:</label>
+                            <select id="comp-run-b" class="select-input">
+                                <option value="">Select Run B…</option>
+                            </select>
+                        </div>
+                        <button id="btn-compare" class="btn btn-primary btn-sm" style="margin-top: 22px;">
+                            Compare Runs
+                        </button>
+                    </div>
+
+                    <!-- Comparison Results Table -->
+                    <div id="compare-results" style="display:none; margin-top:16px;">
+                        <table class="data-table compare-table">
+                            <thead>
+                                <tr>
+                                    <th>Metric</th>
+                                    <th id="th-comp-a">Run A</th>
+                                    <th id="th-comp-b">Run B</th>
+                                </tr>
+                            </thead>
+                            <tbody id="compare-tbody"></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Historical Runs List -->
+            <div class="panel">
+                <div class="panel-header">
+                    <span class="panel-title">Historical Execution Runs</span>
+                    <span class="panel-badge mono" id="history-count">0 runs</span>
+                </div>
+                <div class="table-wrapper">
+                    <table class="data-table" id="history-table">
+                        <thead>
+                            <tr>
+                                <th>Run ID</th>
+                                <th>Parent PID</th>
+                                <th>Pattern</th>
+                                <th>Total</th>
+                                <th>Completed</th>
+                                <th>Signal Term</th>
+                                <th>Duration</th>
+                                <th>Status</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody id="history-tbody">
+                            <tr>
+                                <td colspan="9" class="placeholder-cell">No runs logged yet.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
